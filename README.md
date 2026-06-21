@@ -17,7 +17,7 @@ cd npac
 make npac
 
 #move it to /usr/bin/ for systemwide access
-sudo cp npac /user/bin/npac
+sudo cp npac /usr/bin/npac
 ```
 
 ## Removal
