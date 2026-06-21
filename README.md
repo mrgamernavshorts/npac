@@ -4,21 +4,6 @@ A custom-made aur helper written in c!
 _(Sorry for the HORRIBLY written code. I'm just learning C :D)_
 
 ## Installation
-
-If you already have a aur helper like `yay` or `paru`,
-
-for yay:
-
-```bash
-yay -S npac-git
-```
-
-for paru:
-
-```bash
-paru -S npac-git
-```
-
 Use these commands:
 
 ```bash
