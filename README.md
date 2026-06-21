@@ -23,7 +23,7 @@ Use these commands:
 
 ```bash
 # Clone the Repo
-git clone https://
+git clone https://github.com/mrgamernavshorts/npac
 
 # Cd into npac repo
 cd npac
