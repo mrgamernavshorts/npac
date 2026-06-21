@@ -51,6 +51,3 @@ Install the program and type:
 ```bash
 npac --help
 ```
-
-```
-```
